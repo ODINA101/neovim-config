@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/odin/.config/nvim'
+let g:netrw_dirhist_5='/Users/odin/.config'
+let g:netrw_dirhist_4='/Users/odin/.config/nvim'
+let g:netrw_dirhist_3='/Users/odin/.config'
+let g:netrw_dirhist_2='/Users/odin/.config/nvim'
+let g:netrw_dirhist_1='/Users/odin/.config'
